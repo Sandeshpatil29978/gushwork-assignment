@@ -1,0 +1,17 @@
+{
+  "name": "gushwork-assignment",
+  "version": "1.0.0",
+  "description": "Gushwork Assignment - Mangalam HDPE Pipes Landing Page",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
